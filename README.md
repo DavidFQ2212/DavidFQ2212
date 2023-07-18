@@ -5,12 +5,15 @@
     relacionados a la informatica Técnicas de eficiencia de aplicaciones web, seguridad en aplicaciones web,
     creación de interfaces amigables para el usuario en diversos entornos ,tratamiento de imágenes o videos, así
     como proyectos de robótica, Domótica, seguridad informática.</h3>
-
+    
+    <h3>
+    Passionate about information technology with extensive knowledge in web development topics related to robotics, computer security, operating systems, networks, systems efficiency, development of mobile and desktop applications, servers, cloud-related issues and knowledge related to computer science efficiency techniques of web applications, web application security, creating user-friendly interfaces in various environments, image processing or videos, as well as robotics projects, home automation, computer security.
+    </h3>
 
 - 🔭 I’m currently working on **Robotics projects with AI and Backend java web development projects.**
 
 - 🌱 I’m currently learning **Proyectos de desarrollo web con java con Spring Boot con principios de frontend,
-incursionando en principios del tratamiento de imágenes y su aplicativo en la robótica .**
+  incursionando en principios del tratamiento de imágenes y su aplicativo en la robótica .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavidFQ2212](https://github.com/DavidFQ2212)
 
